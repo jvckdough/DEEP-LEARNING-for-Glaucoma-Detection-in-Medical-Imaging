@@ -5,9 +5,12 @@ After 23 epochs, the model achieved a test accuracy of 84.46%, with a macro-aver
 
 This research demonstrates the feasibility of transfer learning and data augmentation for improving deep learning-based glaucoma screening. Future work will explore alternative architectures, hyperparameter tuning, and larger datasets to further enhance performance and clinical applicability.
 
-# Data
+## Data
 The dataset used can be found here:
 https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection
 
-# Run File:
+## Run File:
 Open .ipynb file in jupyter notebook. Download the data from  https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection and be sure to adjust file paths to directory of dataset. 
+
+## Collaboration:
+Please email me at jackdoughty63@gmail.com with ideas on how to improve the model, feedback, or other collaborations.
